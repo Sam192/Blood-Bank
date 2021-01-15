@@ -11,3 +11,13 @@ For android the languages we are using are Java and XML.
 
 
 BACKEND:
+![](image.png)
+
+A 3-Tier Architecture is used to store DB-
+In 3-Tier architecture we have 3 nodes basically
+1.Client (our app)
+2.Server (it runs some programs in php, java or node js & generates response for our app)
+3.DB      (
+
+Shared web hosting is very cheap compared to firebase or serveres that run node.js like AWS and others
+In Shared web hosting we get MySql DB and can only run PHP (!node.js)
