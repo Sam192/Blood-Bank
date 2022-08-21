@@ -1,8 +1,7 @@
 # Blood-Bank
-An Android-based project with MySql as backend.
-A blood bank is an android application that is used to collect or donate blood easily.
-Users who have an android phone & active internet connection can contact and start searching for a donor through this application.
+Is an Android project with MySql as backend.
 The purpose of this application is to help an individual person to find blood donor's in its nearby areas and connect blood recipients with blood donors directly.
+Users who have an android phone & active internet connection can register and start searching for a donor through this application.
 
 Working:
 I created a simple PHP web server using a free hosting provider: http://000webhost.com 
